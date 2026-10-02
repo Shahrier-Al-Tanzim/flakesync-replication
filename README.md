@@ -2,8 +2,7 @@
 
 This folder contains the inputs, recorded outputs, logs, and analysis from an
 independent run of [**FlakeSync: Automatically Repairing Async Flaky Tests**](https://doi.org/10.1145/3597503.3639115)
-(Shanto Rahman and August Shi, ICSE 2024). It is intended to be copied into a
-separate GitHub repository. It does not contain FlakyGuard or FlakyQ.
+(Shanto Rahman and August Shi, ICSE 2024).
 
 The executable FlakeSync implementation is in the [authors' official Zenodo
 artifact](https://zenodo.org/records/10460139). The 1.4 GB Docker archive is
