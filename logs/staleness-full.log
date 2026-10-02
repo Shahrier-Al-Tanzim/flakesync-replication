@@ -1,0 +1,335 @@
+﻿wsl : + WORK=/home/tanzim/flakesync-staleness
+At line:1 char:302
++ ... tch {} } }; wsl -d Ubuntu bash -c "mkdir -p ~/flakesync-staleness &&  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (+ WORK=/home/tanzim/flakesync-staleness:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
++ mkdir -p /home/tanzim/flakesync-staleness
++ cd /home/tanzim/flakesync-staleness
++ export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
++ JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
++ export 'PATH=/usr/lib/jvm/java-8-openjdk-amd64/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/
+games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program 
+Files/nodejs/:/mnt/c/Users/Tanzim/.jdks/ms-21.0.7/bin:/mnt/c/Python312/Scripts/:/mnt/c/Python312/:/mnt/c/Program Files 
+(x86)/Common Files/Oracle/Java/javapath:/mnt/c/Python311/Scripts/:/mnt/c/Python311/:/mnt/c/STUDY/DBMS/Oracle/app/oracle
+/product/11.2.0/server/bin:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/
+WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32
+/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/TANZIM_T/Softwares/:/mnt/
+c/ProgramData/chocolatey/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/MySQL/MySQL Server 
+8.0/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program 
+Files/php-8.3.8-Win32-vs16-x64:/mnt/c/ProgramData/ComposerSetup/bin:/mnt/c/Program Files (x86)/NVIDIA 
+Corporation/PhysX/Common:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Users/Tanzim/Ap
+pData/Local/Programs/cursor/resources/app/bin:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/
+c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/Docker/host/bin:/mnt/c/Program 
+Files/Amazon/AWSCLIV2/:/mnt/c/Program Files/Cloudflare/Cloudflare WARP/:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA 
+App/NvDLISR:/mnt/c/Users/Tanzim/.local/bin/:/mnt/c/laragon/bin/python/python-3.8/python.exe:/mnt/c/Users/Tanzim/AppData
+/Local/Programs/Python/Python313/Scripts/:/mnt/c/Users/Tanzim/AppData/Local/Programs/Python/Python313/:/mnt/c/Users/Tan
+zim/AppData/Local/Programs/Python/Python38-32/Scripts/:/mnt/c/Users/Tanzim/AppData/Local/Programs/Python/Python38-32/:/
+mnt/c/laragon/bin:/mnt/c/laragon/bin/apache/httpd-2.4.54-win64-VS16/bin:/mnt/c/laragon/bin/composer:/mnt/c/laragon/bin/
+git/bin:/mnt/c/laragon/bin/git/cmd:/mnt/c/laragon/bin/git/mingw64/bin:/mnt/c/laragon/bin/git/usr/bin:/mnt/c/laragon/bin
+/laragon/utils:/mnt/c/laragon/bin/mysql/mysql-8.0.30-winx64/bin:/mnt/c/laragon/bin/nginx/nginx-1.22.0:/mnt/c/laragon/bi
+n/ngrok:/mnt/c/laragon/bin/nodejs/node-v18:/mnt/c/laragon/bin/notepad++:/mnt/c/laragon/bin/php/php-8.2.21-Win32-vs16-x6
+4:/mnt/c/laragon/bin/python/python-3.10:/mnt/c/laragon/bin/python/python-3.10/Scripts:/mnt/c/laragon/bin/redis/redis-x6
+4-5.0.14.1:/mnt/c/laragon/bin/telnet:/mnt/c/laragon/usr/bin:/mnt/c/Users/Tanzim/AppData/Local/Yarn/config/global/node_m
+odules/.bin:/mnt/c/Users/Tanzim/AppData/Roaming/Composer/vendor/bin:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mn
+t/c/RailsInstaller/Ruby3.1.2/bin:/mnt/c/Users/Tanzim/AppData/Local/Microsoft/WindowsApps:/mnt/c/Coding/MinGW/bin:/mnt/c
+/STUDY/MONGO/mongosh-1.8.0-win32-x64/mongosh-1.8.0-win32-x64/mongosh-1.8.0-win32-x64/bin:/mnt/c/Users/Tanzim/AppData/Lo
+cal/GitHubDesktop/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin:/mnt/c/Program 
+Files/JetBrains/IntelliJ IDEA Community Edition 
+2023.2/bin:/mnt/c/Users/Tanzim/miniconda3/condabin:/mnt/c/ProgramData/ComposerSetup/bin:/mnt/c/Program 
+Files/JetBrains/PyCharm 2024.2.1/bin:/mnt/c/Users/Tanzim/AppData/Local/Programs/Ollama:/mnt/c/Thesis/Automate Testing/a
+pache-maven-3.9.11-bin/apache-maven-3.9.11/bin:/mnt/c/Users/Tanzim/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Tan
+zim/AppData/Local/Programs/Antigravity/bin:/mnt/c/Users/Tanzim/AppData/Roaming/npm:/mnt/c/Users/Tanzim/AppData/Local/Pr
+ograms/Antigravity IDE/bin:/mnt/c/Users/Tanzim/.bun/bin:/mnt/c/Users/Tanzim/AppData/Local/Programs/Microsoft VS 
+Code/bin:/mnt/c/Users/Tanzim/AppData/Local/Programs/MiKTeX/miktex/bin/x64/'
++ PATH='/usr/lib/jvm/java-8-openjdk-amd64/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/
+usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program 
+Files/nodejs/:/mnt/c/Users/Tanzim/.jdks/ms-21.0.7/bin:/mnt/c/Python312/Scripts/:/mnt/c/Python312/:/mnt/c/Program Files 
+(x86)/Common Files/Oracle/Java/javapath:/mnt/c/Python311/Scripts/:/mnt/c/Python311/:/mnt/c/STUDY/DBMS/Oracle/app/oracle
+/product/11.2.0/server/bin:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/
+WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32
+/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/TANZIM_T/Softwares/:/mnt/
+c/ProgramData/chocolatey/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/MySQL/MySQL Server 
+8.0/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program 
+Files/php-8.3.8-Win32-vs16-x64:/mnt/c/ProgramData/ComposerSetup/bin:/mnt/c/Program Files (x86)/NVIDIA 
+Corporation/PhysX/Common:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Users/Tanzim/Ap
+pData/Local/Programs/cursor/resources/app/bin:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/
+c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/Docker/host/bin:/mnt/c/Program 
+Files/Amazon/AWSCLIV2/:/mnt/c/Program Files/Cloudflare/Cloudflare WARP/:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA 
+App/NvDLISR:/mnt/c/Users/Tanzim/.local/bin/:/mnt/c/laragon/bin/python/python-3.8/python.exe:/mnt/c/Users/Tanzim/AppData
+/Local/Programs/Python/Python313/Scripts/:/mnt/c/Users/Tanzim/AppData/Local/Programs/Python/Python313/:/mnt/c/Users/Tan
+zim/AppData/Local/Programs/Python/Python38-32/Scripts/:/mnt/c/Users/Tanzim/AppData/Local/Programs/Python/Python38-32/:/
+mnt/c/laragon/bin:/mnt/c/laragon/bin/apache/httpd-2.4.54-win64-VS16/bin:/mnt/c/laragon/bin/composer:/mnt/c/laragon/bin/
+git/bin:/mnt/c/laragon/bin/git/cmd:/mnt/c/laragon/bin/git/mingw64/bin:/mnt/c/laragon/bin/git/usr/bin:/mnt/c/laragon/bin
+/laragon/utils:/mnt/c/laragon/bin/mysql/mysql-8.0.30-winx64/bin:/mnt/c/laragon/bin/nginx/nginx-1.22.0:/mnt/c/laragon/bi
+n/ngrok:/mnt/c/laragon/bin/nodejs/node-v18:/mnt/c/laragon/bin/notepad++:/mnt/c/laragon/bin/php/php-8.2.21-Win32-vs16-x6
+4:/mnt/c/laragon/bin/python/python-3.10:/mnt/c/laragon/bin/python/python-3.10/Scripts:/mnt/c/laragon/bin/redis/redis-x6
+4-5.0.14.1:/mnt/c/laragon/bin/telnet:/mnt/c/laragon/usr/bin:/mnt/c/Users/Tanzim/AppData/Local/Yarn/config/global/node_m
+odules/.bin:/mnt/c/Users/Tanzim/AppData/Roaming/Composer/vendor/bin:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mn
+t/c/RailsInstaller/Ruby3.1.2/bin:/mnt/c/Users/Tanzim/AppData/Local/Microsoft/WindowsApps:/mnt/c/Coding/MinGW/bin:/mnt/c
+/STUDY/MONGO/mongosh-1.8.0-win32-x64/mongosh-1.8.0-win32-x64/mongosh-1.8.0-win32-x64/bin:/mnt/c/Users/Tanzim/AppData/Lo
+cal/GitHubDesktop/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin:/mnt/c/Program 
+Files/JetBrains/IntelliJ IDEA Community Edition 
+2023.2/bin:/mnt/c/Users/Tanzim/miniconda3/condabin:/mnt/c/ProgramData/ComposerSetup/bin:/mnt/c/Program 
+Files/JetBrains/PyCharm 2024.2.1/bin:/mnt/c/Users/Tanzim/AppData/Local/Programs/Ollama:/mnt/c/Thesis/Automate Testing/a
+pache-maven-3.9.11-bin/apache-maven-3.9.11/bin:/mnt/c/Users/Tanzim/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Tan
+zim/AppData/Local/Programs/Antigravity/bin:/mnt/c/Users/Tanzim/AppData/Roaming/npm:/mnt/c/Users/Tanzim/AppData/Local/Pr
+ograms/Antigravity IDE/bin:/mnt/c/Users/Tanzim/.bun/bin:/mnt/c/Users/Tanzim/AppData/Local/Programs/Microsoft VS 
+Code/bin:/mnt/c/Users/Tanzim/AppData/Local/Programs/MiKTeX/miktex/bin/x64/'
++ rows=('M31|qos-ch/logback|logback-core|0f57531977287fd3d8c9046e9f68e281715f3b10' 
+'M25|fluent/fluent-logger-java|.|2e5fdf2dbed59cc5af88442ceae6cbe72f321060' 
+'M14|apache/incubator-uniffle|common|6fb2a9a63132ab9abbde2f1f9240f9caf2f5d0f0' 'M33|undertow-io/undertow|core|ac7204a' 
+'M22|elasticjob/elastic-job-lite|elasticjob-infra/elasticjob-infra-common|9afe466' 
+'M12|apache/httpcore|httpcore|49247d208bde47f652812493e1d3576e136b8eb8' 
+'M36|vmware/admiral|compute|e4b02936cc7d4ff2714e7231db0c4373ba5d48a2' 
+'M7|apache/dubbo|dubbo-config-api|737f7a7ea67832d7f17517326fb2491d0a086dd7' 
+'M21|doanduyhai/Achilles|integration-test|f52f7ec93b3da758119dbbbc1be8dad8e8783764' 
+'M10|apache/dubbo|dubbo-rpc-http|737f7a7ea67832d7f17517326fb2491d0a086dd7')
++ declare -a rows
++ SUMMARY=/home/tanzim/flakesync-staleness/summary.txt
++ for row in "${rows[@]}"
++ IFS='|'
++ read -r id slug module sha
++ dir=fs-check-M31
++ echo '=== M31 qos-ch/logback logback-core 0f57531977287fd3d8c9046e9f68e281715f3b10 ==='
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+=== M31 qos-ch/logback logback-core 0f57531977287fd3d8c9046e9f68e281715f3b10 ===
++ '[' -d fs-check-M31 ']'
++ git clone https://github.com/qos-ch/logback fs-check-M31
++ clone_exit=0
++ '[' 0 -ne 0 ']'
++ cd fs-check-M31
++ git checkout 0f57531977287fd3d8c9046e9f68e281715f3b10
++ checkout_exit=0
++ '[' 0 -ne 0 ']'
++ '[' logback-core == . ']'
++ timeout 900 mvn -q -pl logback-core -am clean test-compile
++ build_exit=0
++ echo 'M31: BUILD EXIT=0'
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+M31: BUILD EXIT=0
++ cd /home/tanzim/flakesync-staleness
++ for row in "${rows[@]}"
++ IFS='|'
++ read -r id slug module sha
++ dir=fs-check-M25
++ echo '=== M25 fluent/fluent-logger-java . 2e5fdf2dbed59cc5af88442ceae6cbe72f321060 ==='
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+=== M25 fluent/fluent-logger-java . 2e5fdf2dbed59cc5af88442ceae6cbe72f321060 ===
++ '[' -d fs-check-M25 ']'
++ git clone https://github.com/fluent/fluent-logger-java fs-check-M25
++ clone_exit=0
++ '[' 0 -ne 0 ']'
++ cd fs-check-M25
++ git checkout 2e5fdf2dbed59cc5af88442ceae6cbe72f321060
++ checkout_exit=0
++ '[' 0 -ne 0 ']'
++ '[' . == . ']'
++ timeout 900 mvn -q clean test-compile
++ build_exit=0
++ echo 'M25: BUILD EXIT=0'
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+M25: BUILD EXIT=0
++ cd /home/tanzim/flakesync-staleness
++ for row in "${rows[@]}"
++ IFS='|'
++ read -r id slug module sha
++ dir=fs-check-M14
++ echo '=== M14 apache/incubator-uniffle common 6fb2a9a63132ab9abbde2f1f9240f9caf2f5d0f0 ==='
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+=== M14 apache/incubator-uniffle common 6fb2a9a63132ab9abbde2f1f9240f9caf2f5d0f0 ===
++ '[' -d fs-check-M14 ']'
++ git clone https://github.com/apache/incubator-uniffle fs-check-M14
++ clone_exit=0
++ '[' 0 -ne 0 ']'
++ cd fs-check-M14
++ git checkout 6fb2a9a63132ab9abbde2f1f9240f9caf2f5d0f0
++ checkout_exit=0
++ '[' 0 -ne 0 ']'
++ '[' common == . ']'
++ timeout 900 mvn -q -pl common -am clean test-compile
++ build_exit=0
++ echo 'M14: BUILD EXIT=0'
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+M14: BUILD EXIT=0
++ cd /home/tanzim/flakesync-staleness
++ for row in "${rows[@]}"
++ IFS='|'
++ read -r id slug module sha
++ dir=fs-check-M33
++ echo '=== M33 undertow-io/undertow core ac7204a ==='
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+=== M33 undertow-io/undertow core ac7204a ===
++ '[' -d fs-check-M33 ']'
++ git clone https://github.com/undertow-io/undertow fs-check-M33
++ clone_exit=0
++ '[' 0 -ne 0 ']'
++ cd fs-check-M33
++ git checkout ac7204a
++ checkout_exit=0
++ '[' 0 -ne 0 ']'
++ '[' core == . ']'
++ timeout 900 mvn -q -pl core -am clean test-compile
++ build_exit=0
++ echo 'M33: BUILD EXIT=0'
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+M33: BUILD EXIT=0
++ cd /home/tanzim/flakesync-staleness
++ for row in "${rows[@]}"
++ IFS='|'
++ read -r id slug module sha
++ dir=fs-check-M22
++ echo '=== M22 elasticjob/elastic-job-lite elasticjob-infra/elasticjob-infra-common 9afe466 ==='
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+=== M22 elasticjob/elastic-job-lite elasticjob-infra/elasticjob-infra-common 9afe466 ===
++ '[' -d fs-check-M22 ']'
++ git clone https://github.com/elasticjob/elastic-job-lite fs-check-M22
++ clone_exit=0
++ '[' 0 -ne 0 ']'
++ cd fs-check-M22
++ git checkout 9afe466
++ checkout_exit=0
++ '[' 0 -ne 0 ']'
++ '[' elasticjob-infra/elasticjob-infra-common == . ']'
++ timeout 900 mvn -q -pl elasticjob-infra/elasticjob-infra-common -am clean test-compile
++ build_exit=0
++ echo 'M22: BUILD EXIT=0'
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+M22: BUILD EXIT=0
++ cd /home/tanzim/flakesync-staleness
++ for row in "${rows[@]}"
++ IFS='|'
++ read -r id slug module sha
++ dir=fs-check-M12
++ echo '=== M12 apache/httpcore httpcore 49247d208bde47f652812493e1d3576e136b8eb8 ==='
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+=== M12 apache/httpcore httpcore 49247d208bde47f652812493e1d3576e136b8eb8 ===
++ '[' -d fs-check-M12 ']'
++ git clone https://github.com/apache/httpcore fs-check-M12
++ clone_exit=0
++ '[' 0 -ne 0 ']'
++ cd fs-check-M12
++ git checkout 49247d208bde47f652812493e1d3576e136b8eb8
++ checkout_exit=0
++ '[' 0 -ne 0 ']'
++ '[' httpcore == . ']'
++ timeout 900 mvn -q -pl httpcore -am clean test-compile
++ build_exit=0
++ echo 'M12: BUILD EXIT=0'
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+M12: BUILD EXIT=0
++ cd /home/tanzim/flakesync-staleness
++ for row in "${rows[@]}"
++ IFS='|'
++ read -r id slug module sha
++ dir=fs-check-M36
++ echo '=== M36 vmware/admiral compute e4b02936cc7d4ff2714e7231db0c4373ba5d48a2 ==='
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+=== M36 vmware/admiral compute e4b02936cc7d4ff2714e7231db0c4373ba5d48a2 ===
++ '[' -d fs-check-M36 ']'
++ git clone https://github.com/vmware/admiral fs-check-M36
++ clone_exit=0
++ '[' 0 -ne 0 ']'
++ cd fs-check-M36
++ git checkout e4b02936cc7d4ff2714e7231db0c4373ba5d48a2
++ checkout_exit=0
++ '[' 0 -ne 0 ']'
++ '[' compute == . ']'
++ timeout 900 mvn -q -pl compute -am clean test-compile
++ build_exit=0
++ echo 'M36: BUILD EXIT=0'
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+M36: BUILD EXIT=0
++ cd /home/tanzim/flakesync-staleness
++ for row in "${rows[@]}"
++ IFS='|'
++ read -r id slug module sha
++ dir=fs-check-M7
++ echo '=== M7 apache/dubbo dubbo-config-api 737f7a7ea67832d7f17517326fb2491d0a086dd7 ==='
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+=== M7 apache/dubbo dubbo-config-api 737f7a7ea67832d7f17517326fb2491d0a086dd7 ===
++ '[' -d fs-check-M7 ']'
++ git clone https://github.com/apache/dubbo fs-check-M7
++ clone_exit=0
++ '[' 0 -ne 0 ']'
++ cd fs-check-M7
++ git checkout 737f7a7ea67832d7f17517326fb2491d0a086dd7
++ checkout_exit=0
++ '[' 0 -ne 0 ']'
++ '[' dubbo-config-api == . ']'
++ timeout 900 mvn -q -pl dubbo-config-api -am clean test-compile
++ build_exit=1
++ echo 'M7: BUILD EXIT=1'
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+M7: BUILD EXIT=1
++ cd /home/tanzim/flakesync-staleness
++ for row in "${rows[@]}"
++ IFS='|'
++ read -r id slug module sha
++ dir=fs-check-M21
++ echo '=== M21 doanduyhai/Achilles integration-test f52f7ec93b3da758119dbbbc1be8dad8e8783764 ==='
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+=== M21 doanduyhai/Achilles integration-test f52f7ec93b3da758119dbbbc1be8dad8e8783764 ===
++ '[' -d fs-check-M21 ']'
++ git clone https://github.com/doanduyhai/Achilles fs-check-M21
++ clone_exit=0
++ '[' 0 -ne 0 ']'
++ cd fs-check-M21
++ git checkout f52f7ec93b3da758119dbbbc1be8dad8e8783764
++ checkout_exit=0
++ '[' 0 -ne 0 ']'
++ '[' integration-test == . ']'
++ timeout 900 mvn -q -pl integration-test -am clean test-compile
++ build_exit=1
++ echo 'M21: BUILD EXIT=1'
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+M21: BUILD EXIT=1
++ cd /home/tanzim/flakesync-staleness
++ for row in "${rows[@]}"
++ IFS='|'
++ read -r id slug module sha
++ dir=fs-check-M10
++ echo '=== M10 apache/dubbo dubbo-rpc-http 737f7a7ea67832d7f17517326fb2491d0a086dd7 ==='
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+=== M10 apache/dubbo dubbo-rpc-http 737f7a7ea67832d7f17517326fb2491d0a086dd7 ===
++ '[' -d fs-check-M10 ']'
++ git clone https://github.com/apache/dubbo fs-check-M10
++ clone_exit=0
++ '[' 0 -ne 0 ']'
++ cd fs-check-M10
++ git checkout 737f7a7ea67832d7f17517326fb2491d0a086dd7
++ checkout_exit=0
++ '[' 0 -ne 0 ']'
++ '[' dubbo-rpc-http == . ']'
++ timeout 900 mvn -q -pl dubbo-rpc-http -am clean test-compile
++ build_exit=1
++ echo 'M10: BUILD EXIT=1'
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+M10: BUILD EXIT=1
++ cd /home/tanzim/flakesync-staleness
++ echo '=== ALL DONE ==='
++ tee -a /home/tanzim/flakesync-staleness/summary.txt
+=== ALL DONE ===
++ cat /home/tanzim/flakesync-staleness/summary.txt
+=== M31 qos-ch/logback logback-core 0f57531977287fd3d8c9046e9f68e281715f3b10 ===
+M31: BUILD EXIT=0
+=== M25 fluent/fluent-logger-java . 2e5fdf2dbed59cc5af88442ceae6cbe72f321060 ===
+M25: BUILD EXIT=0
+=== M14 apache/incubator-uniffle common 6fb2a9a63132ab9abbde2f1f9240f9caf2f5d0f0 ===
+M14: BUILD EXIT=0
+=== M33 undertow-io/undertow core ac7204a ===
+M33: BUILD EXIT=0
+=== M22 elasticjob/elastic-job-lite elasticjob-infra/elasticjob-infra-common 9afe466 ===
+M22: BUILD EXIT=0
+=== M12 apache/httpcore httpcore 49247d208bde47f652812493e1d3576e136b8eb8 ===
+M12: BUILD EXIT=0
+=== M36 vmware/admiral compute e4b02936cc7d4ff2714e7231db0c4373ba5d48a2 ===
+M36: BUILD EXIT=0
+=== M7 apache/dubbo dubbo-config-api 737f7a7ea67832d7f17517326fb2491d0a086dd7 ===
+M7: BUILD EXIT=1
+=== M21 doanduyhai/Achilles integration-test f52f7ec93b3da758119dbbbc1be8dad8e8783764 ===
+M21: BUILD EXIT=1
+=== M10 apache/dubbo dubbo-rpc-http 737f7a7ea67832d7f17517326fb2491d0a086dd7 ===
+M10: BUILD EXIT=1
+=== ALL DONE ===

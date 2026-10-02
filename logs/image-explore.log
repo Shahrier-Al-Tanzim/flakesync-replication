@@ -1,0 +1,57 @@
+/home/java8-flakesync
+---home---
+total 96
+drwxr-xr-x 1 java8-flakesync java8-flakesync  4096 Jan  4  2024 .
+drwxr-xr-x 1 root            root             4096 Jul 27  2023 ..
+-rw-r--r-- 1 java8-flakesync java8-flakesync   220 Apr  4  2018 .bash_logout
+-rw-r--r-- 1 java8-flakesync java8-flakesync  3771 Apr  4  2018 .bashrc
+drwxr-xr-x 3 java8-flakesync java8-flakesync  4096 Jan  2  2024 .java
+drwxr-xr-x 1 java8-flakesync java8-flakesync  4096 Jan  1  2024 .m2
+-rw-r--r-- 1 java8-flakesync java8-flakesync   807 Apr  4  2018 .profile
+drwxr-xr-x 1 java8-flakesync java8-flakesync  4096 Jan  4  2024 .vim
+-rw------- 1 java8-flakesync java8-flakesync 51079 Jan  4  2024 .viminfo
+drwxr-xr-x 5 java8-flakesync java8-flakesync  4096 Jan  1  2024 FlakeSync
+drwxr-xr-x 6 java8-flakesync java8-flakesync  4096 Jan  4  2024 expected_results
+drwxr-xr-x 1 java8-flakesync java8-flakesync  4096 Jan  4  2024 scripts
+---home recursive depth 2---
+/home/java8-flakesync
+/home/java8-flakesync/.profile
+/home/java8-flakesync/.bashrc
+/home/java8-flakesync/.bash_logout
+/home/java8-flakesync/expected_results
+/home/java8-flakesync/expected_results/Locations
+/home/java8-flakesync/expected_results/README.md
+/home/java8-flakesync/expected_results/Results-Boundary
+/home/java8-flakesync/expected_results/Results-Minimizer
+/home/java8-flakesync/expected_results/Results-Barrier
+/home/java8-flakesync/.m2
+/home/java8-flakesync/.m2/repository
+/home/java8-flakesync/.java
+/home/java8-flakesync/.java/.userPrefs
+/home/java8-flakesync/scripts
+/home/java8-flakesync/scripts/agent-pom-modify
+/home/java8-flakesync/scripts/collect_stacktrace.sh
+/home/java8-flakesync/scripts/find-actual-line-to-delay-inject.sh
+/home/java8-flakesync/scripts/README.md
+/home/java8-flakesync/scripts/parse-stack-trace.sh
+/home/java8-flakesync/scripts/downward_mvn_run.sh
+/home/java8-flakesync/scripts/runAll.sh
+/home/java8-flakesync/scripts/run_mvn_test_with_yield_and_cut.sh
+/home/java8-flakesync/scripts/run-delta-debugging.sh
+/home/java8-flakesync/scripts/data_list
+/home/java8-flakesync/scripts/mvn-run-and-find-stack-trace.sh
+/home/java8-flakesync/scripts/analyzeRootMethod.sh
+/home/java8-flakesync/scripts/make_data_boundary.sh
+/home/java8-flakesync/scripts/end_to_end_flakesync.sh
+/home/java8-flakesync/scripts/root_method_and_critical_point_search.sh
+/home/java8-flakesync/scripts/projects
+/home/java8-flakesync/scripts/delay_injection_and_minimized_locations.sh
+/home/java8-flakesync/scripts/barrier_point_search.sh
+/home/java8-flakesync/.vim
+/home/java8-flakesync/.vim/.netrwhist
+/home/java8-flakesync/.viminfo
+/home/java8-flakesync/FlakeSync
+/home/java8-flakesync/FlakeSync/flakeDelay-core
+/home/java8-flakesync/FlakeSync/barrierSearch-core
+/home/java8-flakesync/FlakeSync/pom.xml
+/home/java8-flakesync/FlakeSync/localization-core

@@ -1,0 +1,2 @@
+#Project-Name,SHA,Module,Test-Name,Boundary-Point(s),Anywhere-of-method(1)/Part-of-method(0),#Boundary-Point,Reaches-to-end(TRUE/FALSE)
+qos-ch/logback,0f57531977287fd3d8c9046e9f68e281715f3b10,logback-core,ch.qos.logback.core.FileAppenderResilienceTest#smoke,ch/qos/logback/core/Runner#112~ch/qos/logback/core/Runner#116[200],0,1,FALSE

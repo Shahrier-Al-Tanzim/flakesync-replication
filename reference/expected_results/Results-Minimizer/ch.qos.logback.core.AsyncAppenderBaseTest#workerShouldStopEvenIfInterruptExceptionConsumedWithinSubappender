@@ -1,0 +1,1 @@
+qos-ch/logback,0f57531977287fd3d8c9046e9f68e281715f3b10,logback-core,ch.qos.logback.core.AsyncAppenderBaseTest#workerShouldStopEvenIfInterruptExceptionConsumedWithinSubappender,78 79 80 81 82 83[delay=100:epochTime=25.58],82[delay=200:epochTime=13.12],38.70

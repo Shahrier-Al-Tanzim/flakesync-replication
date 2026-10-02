@@ -1,0 +1,1 @@
+apache/httpcore,49247d208bde47f652812493e1d3576e136b8eb8,httpcore,org.apache.http.pool.TestConnPool#testLeaseTimeout,55,org/apache/http/pool/AbstractConnPool#231,12800,17

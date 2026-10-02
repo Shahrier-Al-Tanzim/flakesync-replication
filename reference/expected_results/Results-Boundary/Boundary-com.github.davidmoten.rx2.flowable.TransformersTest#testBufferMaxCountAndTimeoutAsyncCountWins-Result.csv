@@ -1,0 +1,2 @@
+#Project-Name,SHA,Module,Test-Name,Boundary-Point(s),Anywhere-of-method(1)/Part-of-method(0),#Boundary-Point,Reaches-to-end(TRUE/FALSE)
+davidmoten/rxjava2-extras,7663d3b19295f12c35f80594efa1e507e98650b1,.,com.github.davidmoten.rx2.flowable.TransformersTest#testBufferMaxCountAndTimeoutAsyncCountWins,io/reactivex/internal/schedulers/ScheduledRunnable#57~io/reactivex/internal/schedulers/ScheduledRunnable#57[6400],0,1,FALSE

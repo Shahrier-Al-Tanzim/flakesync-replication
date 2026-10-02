@@ -1,0 +1,1 @@
+elasticjob/elastic-job-lite,9afe466837e9e0751a8cd3898bca80d60548f0d1,elasticjob-infra/elasticjob-infra-common,org.apache.shardingsphere.elasticjob.infra.concurrent.ElasticJobExecutorServiceTest#assertCreateExecutorService,6,org/apache/shardingsphere/elasticjob/infra/concurrent/ElasticJobExecutorService#78,800,6

@@ -1,0 +1,2 @@
+#Project-Name,SHA,Module,Test-Name,Boundary-Point(s),Anywhere-of-method(1)/Part-of-method(0),#Boundary-Point,Reaches-to-end(TRUE/FALSE)
+doanduyhai/Achilles,e3099bdce342910951c4862c78751fd81ed4552e,integration-test-2_1,info.archinnov.achilles.it.TestEntityWithComplexIndices#should_query_using_map_key_entry,info/archinnov/achilles/embedded/ServerStarter#159~info/archinnov/achilles/embedded/ServerStarter#163[51200],0,1,FALSE

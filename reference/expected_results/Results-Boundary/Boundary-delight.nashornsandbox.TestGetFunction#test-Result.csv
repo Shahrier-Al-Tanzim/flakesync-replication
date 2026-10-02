@@ -1,0 +1,2 @@
+#Project-Name,SHA,Module,Test-Name,Boundary-Point(s),Anywhere-of-method(1)/Part-of-method(0),#Boundary-Point,Reaches-to-end(TRUE/FALSE)
+javadelight/delight-nashorn-sandbox,da35edc0a75424bad8cbf60959fae253202154c4,.,delight.nashornsandbox.TestGetFunction#test,delight/nashornsandbox/internal/JsEvaluator#53~delight/nashornsandbox/internal/JsEvaluator#54[100];delight/nashornsandbox/internal/JsEvaluator#67~delight/nashornsandbox/internal/JsEvaluator#68[100];,0,1,FALSE

@@ -1,0 +1,1 @@
+apache/httpcore,49247d208bde47f652812493e1d3576e136b8eb8,httpcore-nio,org.apache.http.nio.protocol.TestAsyncNHttpHandlers#testNoRequestHandler,1075,org/apache/http/impl/nio/reactor/SessionInputBufferImpl#212,6400,315

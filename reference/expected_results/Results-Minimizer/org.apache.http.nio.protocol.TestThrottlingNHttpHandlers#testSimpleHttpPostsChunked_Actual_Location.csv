@@ -1,0 +1,1 @@
+apache/httpcore,49247d208bde47f652812493e1d3576e136b8eb8,httpcore-nio,org.apache.http.nio.protocol.TestThrottlingNHttpHandlers#testSimpleHttpPostsChunked,1242,org/apache/http/impl/nio/reactor/SessionInputBufferImpl#213,3200,328

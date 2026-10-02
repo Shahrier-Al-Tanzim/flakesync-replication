@@ -1,0 +1,1 @@
+fluent/fluent-logger-java,2e5fdf2dbed59cc5af88442ceae6cbe72f321060,.,org.fluentd.logger.TestFluentLogger#testInMultiThreading,45,org/fluentd/logger/sender/ExponentialDelayReconnector#53,100,244

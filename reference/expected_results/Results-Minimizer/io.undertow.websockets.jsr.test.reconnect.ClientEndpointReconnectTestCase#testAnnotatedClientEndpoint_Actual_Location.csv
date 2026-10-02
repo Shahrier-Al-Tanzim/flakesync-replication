@@ -1,0 +1,1 @@
+undertow-io/undertow,d0efffad5d2034bb07525cac9b299dac72c3045d,websockets-jsr,io.undertow.websockets.jsr.test.reconnect.ClientEndpointReconnectTestCase#testAnnotatedClientEndpoint,2228,io/undertow/server/protocol/http/HttpResponseConduit#219,3200,1390

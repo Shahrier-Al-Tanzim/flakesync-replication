@@ -1,0 +1,1 @@
+apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-rpc/dubbo-rpc-dubbo,org.apache.dubbo.rpc.protocol.dubbo.DubboProtocolTest#testNonSerializedParameter,511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527[delay=100:epochTime=884.79],519 520 521 522[delay=200:epochTime=217.87],519 520[delay=400:epochTime=97.93],520[delay=800:epochTime=37.11],1237.71

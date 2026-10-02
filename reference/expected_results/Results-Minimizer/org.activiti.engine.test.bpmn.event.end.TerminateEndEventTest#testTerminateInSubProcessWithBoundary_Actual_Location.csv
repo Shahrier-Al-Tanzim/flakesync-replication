@@ -1,0 +1,1 @@
+activiti/activiti,b11f757a,activiti-engine,org.activiti.engine.test.bpmn.event.end.TerminateEndEventTest#testTerminateInSubProcessWithBoundary,1633,org/activiti/engine/impl/persistence/AbstractManager#170,400,1824

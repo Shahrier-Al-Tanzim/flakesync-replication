@@ -1,0 +1,10 @@
+# Downloaded official artifact and local run output.
+*.tar.gz
+runs/
+
+# Local editor and OS files.
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+

@@ -1,0 +1,2 @@
+#Project-Name,SHA,Module,Test-Name,Boundary-Point(s),Anywhere-of-method(1)/Part-of-method(0),#Boundary-Point,Reaches-to-end(TRUE/FALSE)
+TooTallNate/Java-WebSocket,fa3909c391195178ccf5a92d4ac342a30ae247c8,.,org.java_websocket.issues.Issue580Test#runNoCloseBlockingTestScenario0,org/java_websocket/client/WebSocketClient$WebsocketWriteThread#645~org/java_websocket/client/WebSocketClient$WebsocketWriteThread#648[3200];org/java_websocket/client/WebSocketClient$WebsocketWriteThread#660~org/java_websocket/client/WebSocketClient$WebsocketWriteThread#661[3200];,0,1,FALSE

@@ -1,0 +1,2 @@
+#Project-Name,SHA,Module,Test-Name,Boundary-Point(s),Anywhere-of-method(1)/Part-of-method(0),#Boundary-Point,Reaches-to-end(TRUE/FALSE)
+square/okhttp,129c937fb33328e1f4ee8815a94e89676f242c2c,okhttp-tests,com.squareup.okhttp.internal.spdy.SpdyConnectionTest#receiveGoAway,okio/DeflaterSink#93~okio/DeflaterSink#94[100],0,1,FALSE

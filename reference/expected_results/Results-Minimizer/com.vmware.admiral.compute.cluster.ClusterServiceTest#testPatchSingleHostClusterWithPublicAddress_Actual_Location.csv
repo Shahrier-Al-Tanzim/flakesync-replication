@@ -1,0 +1,1 @@
+vmware/admiral,e4b02936cc7d4ff2714e7231db0c4373ba5d48a2,compute,com.vmware.admiral.compute.cluster.ClusterServiceTest#testPatchSingleHostClusterWithPublicAddress,3095,com/vmware/admiral/common/util/QueryUtil#68,12800,2475

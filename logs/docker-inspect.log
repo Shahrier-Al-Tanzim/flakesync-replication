@@ -1,0 +1,56 @@
+[
+    {
+        "Id": "sha256:80708e2c1756728ca5c8d189c4313af8b71889b1557ac1405fcd71b5bde2825b",
+        "RepoTags": [
+            "flakesync-artifact:latest"
+        ],
+        "RepoDigests": [],
+        "Parent": "",
+        "Comment": "",
+        "Created": "2024-01-04T20:37:16.696740366Z",
+        "DockerVersion": "20.10.21",
+        "Author": "",
+        "Architecture": "amd64",
+        "Os": "linux",
+        "Size": 2218088050,
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/2ec258e2fa9f812f193491bbb29d1889347874a9937be1eff2996a949e23becf/diff:/var/lib/docker/overlay2/70ed8bce3b94e7e15a250855c15d90dd956112545124ff4848d27537339f43b2/diff:/var/lib/docker/overlay2/82bc03a4ed2a4d453ec467fdbd368050ff3881beec773d5e4376086552c9b8a7/diff:/var/lib/docker/overlay2/31c588e3d657ca951ccd5fcae36a31c64e28fd96b28b72393918c39304db9376/diff:/var/lib/docker/overlay2/5cd0b297597ff944fa684b88b64beadb2362df5f0d9244a8bb169d6287e1cf17/diff:/var/lib/docker/overlay2/aa8e432345d8ce3e455ed8c271f4a7b3752d13bb3a3e237fa5006ca5fa4ec2a0/diff",
+                "MergedDir": "/var/lib/docker/overlay2/328b0e925e039f0d49c2cd45d17b1ce78c56895129ef616e7e5da41fa941bf55/merged",
+                "UpperDir": "/var/lib/docker/overlay2/328b0e925e039f0d49c2cd45d17b1ce78c56895129ef616e7e5da41fa941bf55/diff",
+                "WorkDir": "/var/lib/docker/overlay2/328b0e925e039f0d49c2cd45d17b1ce78c56895129ef616e7e5da41fa941bf55/work"
+            },
+            "Name": "overlay2"
+        },
+        "RootFS": {
+            "Type": "layers",
+            "Layers": [
+                "sha256:c95d2191d7773c6e29188f92922bc9547e1f0b6130e85dfc2f5e4eae13137c7c",
+                "sha256:27502392e386147bf71f51b4676dbe938b9b86592e41047c17fc94a116aa2841",
+                "sha256:9f10818f1f96a349981e134a0e8d566fa5ab144c9f9f4e766be8cdab76d4074d",
+                "sha256:552511abb992ce1bfac2c308197b82ada5c5f6f9007904eecc496d450aa90030",
+                "sha256:055ba073fcfd697f45fd2e5cfedcae63c1253ae83c7f89643a434484b45e1d6d",
+                "sha256:792084bae834b8c5f53ef89961cabc5e9d1bf44e0fac394baae3053b36c3defe",
+                "sha256:e53742d6e68d591b559f3cd24ba17c1dac53154be3ec05accfc2202abe9e421d"
+            ]
+        },
+        "Metadata": {
+            "LastTagTime": "0001-01-01T00:00:00Z"
+        },
+        "Config": {
+            "Cmd": [
+                "bash"
+            ],
+            "Entrypoint": null,
+            "Env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/"
+            ],
+            "Labels": null,
+            "OnBuild": null,
+            "User": "java8-flakesync",
+            "Volumes": null,
+            "WorkingDir": "/home/java8-flakesync"
+        }
+    }
+]

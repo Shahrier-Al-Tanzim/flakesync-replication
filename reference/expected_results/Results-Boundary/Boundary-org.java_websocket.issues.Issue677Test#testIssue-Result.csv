@@ -1,0 +1,2 @@
+#Project-Name,SHA,Module,Test-Name,Boundary-Point(s),Anywhere-of-method(1)/Part-of-method(0),#Boundary-Point,Reaches-to-end(TRUE/FALSE)
+TooTallNate/Java-WebSocket,fa3909c391195178ccf5a92d4ac342a30ae247c8,.,org.java_websocket.issues.Issue677Test#testIssue,org/java_websocket/WebSocketImpl#513~org/java_websocket/WebSocketImpl#515[100],0,1,TRUE

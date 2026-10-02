@@ -1,0 +1,2 @@
+#Project-Name,SHA,Module,Test-Name,Boundary-Point(s),Anywhere-of-method(1)/Part-of-method(0),#Boundary-Point,Reaches-to-end(TRUE/FALSE)
+nlighten/tomcat_exporter,bc6a2d2,client,nl.nlighten.prometheus.tomcat.TomcatServletMetricsFilterTest#testServletRequestMetrics,nl/nlighten/prometheus/tomcat/TomcatServletMetricsFilter#118~nl/nlighten/prometheus/tomcat/TomcatServletMetricsFilter#118[100],0,1,FALSE

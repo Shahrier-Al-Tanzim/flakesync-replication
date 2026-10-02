@@ -1,0 +1,2 @@
+#Project-Name,SHA,Module,Test-Name,Boundary-Point(s),Anywhere-of-method(1)/Part-of-method(0),#Boundary-Point,Reaches-to-end(TRUE/FALSE)
+vmware/admiral,e4b02936cc7d4ff2714e7231db0c4373ba5d48a2,adapter/registry,com.vmware.admiral.adapter.registry.service.RegistryAdapterServiceTest#testSameRegistryTwoDifferentProjectsNotRemoveOldTenantLinkShouldFail,com/vmware/xenon/common/ServiceHost#4006~com/vmware/xenon/common/ServiceHost#4008[800];com/vmware/xenon/common/ServiceHost#4012~com/vmware/xenon/common/ServiceHost#4012[800];,0,1,FALSE

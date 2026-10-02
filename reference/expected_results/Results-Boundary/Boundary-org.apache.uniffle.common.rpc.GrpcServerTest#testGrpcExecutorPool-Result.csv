@@ -1,0 +1,2 @@
+#Project-Name,SHA,Module,Test-Name,Boundary-Point(s),Anywhere-of-method(1)/Part-of-method(0),#Boundary-Point,Reaches-to-end(TRUE/FALSE)
+apache/incubator-uniffle,6fb2a9a63132ab9abbde2f1f9240f9caf2f5d0f0,common,org.apache.uniffle.common.rpc.GrpcServerTest#testGrpcExecutorPool,org/apache/uniffle/common/rpc/GrpcServer$GrpcThreadPoolExecutor#157~org/apache/uniffle/common/rpc/GrpcServer$GrpcThreadPoolExecutor#157[200],0,1,FALSE

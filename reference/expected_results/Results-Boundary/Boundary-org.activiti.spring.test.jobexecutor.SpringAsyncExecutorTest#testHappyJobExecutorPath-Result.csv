@@ -1,0 +1,2 @@
+#Project-Name,SHA,Module,Test-Name,Boundary-Point(s),Anywhere-of-method(1)/Part-of-method(0),#Boundary-Point,Reaches-to-end(TRUE/FALSE)
+activiti/activiti,b11f757a,activiti-spring,org.activiti.spring.test.jobexecutor.SpringAsyncExecutorTest#testHappyJobExecutorPath,org/activiti/engine/impl/agenda/EndExecutionOperation#52~org/activiti/engine/impl/agenda/EndExecutionOperation#52[12800],0,1,FALSE
