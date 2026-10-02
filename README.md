@@ -21,7 +21,7 @@ for this study is `da181d43dadcda81735a6aabd4bcbf05`.
 | `results/` | Saved outputs from the original M26, M16, and resource-comparison runs. |
 | `reference/` | Authors' expected outputs and input lists copied from the official artifact for comparison. |
 | `logs/` | Full pipeline transcripts and selected setup logs from the original study. |
-| `analysis/` | Replication report, detailed findings, and the historical exploration plan. |
+| `analysis/` | Replication report and detailed findings. |
 
 The source projects and tool are **not** vendored. The official script clones
 each subject project at the commit specified in the input CSV, so a rerun
@@ -31,8 +31,7 @@ Some historical notes retain paths from the original workspace. In this
 standalone folder, `findings/logs/flakesync/` maps to `logs/`, and
 `findings/reports/flakesync/` maps to `results/` or `reference/` depending on
 whether the file was produced by this study or by the authors.
-The plan under `analysis/` records the original workflow; use the launchers
-below for new runs.
+Use the launchers below for new runs.
 
 ## Run on Windows
 

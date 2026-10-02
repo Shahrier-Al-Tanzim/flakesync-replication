@@ -1,8 +1,7 @@
 # FlakeSync - replication report
 
 > One-page summary of the FlakeSync replication. Full detail in
-> [flakesync_findings.md](flakesync_findings.md). Full historical plan in
-> [flakesync_explore.md](flakesync_explore.md).
+> [flakesync_findings.md](flakesync_findings.md).
 
 ## 1. What I did
 
